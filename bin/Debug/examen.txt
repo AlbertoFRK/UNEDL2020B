@@ -1,0 +1,7 @@
+LOCALIDADINVENTARIO: zv
+LOCALIDADBASE: afa
+install.port: sagfa
+install.address: gaag
+install.password: asff
+install.redundancia: High
+install.option: Full
